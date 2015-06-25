@@ -1,6 +1,8 @@
 Bolts
 ============
 
+[![Join the chat at https://gitter.im/Applied-Duality/Bolts-Java](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Applied-Duality/Bolts-Java?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Bolts is a collection of low-level libraries designed to make developing mobile
 apps easier. Bolts was designed by Parse and Facebook for our own internal use,
 and we have decided to open source these libraries to make them available to
